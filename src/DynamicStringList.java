@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 15.06.2018.
+ * Created by Administrator on 18.06.2018.
  */
 
 public class DynamicStringList implements SimpleList {
